@@ -1,0 +1,10 @@
+
+oliveira:
+  client:
+    address:
+      url: http://localhost:80882/addresses
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/hexagonal
